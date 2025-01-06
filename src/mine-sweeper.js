@@ -47,7 +47,6 @@ function minesweeper(matrix) {
 
           count++;
         }
-
       }
     }
     return count;
